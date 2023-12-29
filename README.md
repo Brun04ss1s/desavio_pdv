@@ -7,3 +7,5 @@ nome_produto varchar(30),
 preco_produto real,
 quantidade int
 );
+
+/* Código feito em java*/
